@@ -1,0 +1,4 @@
+מבחנים :
+U-test
+Empirical CDF, L-inf
+Normality, T-test, adjustment to sample size
